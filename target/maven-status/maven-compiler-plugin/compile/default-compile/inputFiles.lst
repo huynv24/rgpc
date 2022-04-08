@@ -1,0 +1,10 @@
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/java/com/example/grpc/HelloRequest.java
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/java/com/example/grpc/HelloResponse.java
+/home/voicemeeting/huynv24/microservice/grpc-master/src/main/java/com/example/grpc/client/GrpcClient.java
+/home/voicemeeting/huynv24/microservice/grpc-master/src/main/java/com/example/grpc/GrpcApplication.java
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/java/com/example/grpc/HelloRequestOrBuilder.java
+/home/voicemeeting/huynv24/microservice/grpc-master/src/main/java/com/example/grpc/server/HelloServiceImpl.java
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/grpc-java/com/example/grpc/HelloServiceGrpc.java
+/home/voicemeeting/huynv24/microservice/grpc-master/src/main/java/com/example/grpc/server/GrpcServer.java
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/java/com/example/grpc/HelloServiceOuterClass.java
+/home/voicemeeting/huynv24/microservice/grpc-master/target/generated-sources/protobuf/java/com/example/grpc/HelloResponseOrBuilder.java
